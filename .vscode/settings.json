@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.base.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.controls.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.fxml.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.graphics.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.media.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.swing.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx.web.jar",
+        "/home/el_professor258/Downloads/javafx-sdk-21.0.2/lib/javafx-swt.jar"
+    ]
+}

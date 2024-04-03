@@ -35,7 +35,7 @@ public class SQLProject extends Application {
         layout2.setPadding(new Insets(20));
         scene2 = new Scene(layout2, 400, 400);
         scene3 = createScene("Enter your SQL command:", "sqlplus", "-S", "c##AP/1234");
-        scene4 = createScene("Enter your PLSQL command:", "plsql", "-S", "c##AP/1234");
+        scene4 = createScene("Enter your PLSQL command:", "sqlplus", "-S", "c##AP/1234");
         sqlButton.setOnAction(e -> primaryStage.setScene(scene3));
         plsqlButton.setOnAction(e -> primaryStage.setScene(scene4));
         primaryStage.setScene(scene1);
